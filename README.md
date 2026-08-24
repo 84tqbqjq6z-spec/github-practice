@@ -16,6 +16,6 @@
 
 - [x] 创建 GitHub 账号
 - [x] 创建第一个仓库
-- [ ] 学习修改和提交文件
+- [x] 学习修改和提交文件
 - [ ] 学习 GitHub Desktop
 - [ ] 学习分支与 Pull Request
