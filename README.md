@@ -1,7 +1,6 @@
-# software-testing-learning
-第一次使用GitHub
+# GitHub Practice
 
-这是我的第一个 GitHub 仓库，用于记录软件测试学习过程。
+这是我的 GitHub 操作练习仓库，用于熟悉项目协作流程。
 
 ## 学习内容
 
